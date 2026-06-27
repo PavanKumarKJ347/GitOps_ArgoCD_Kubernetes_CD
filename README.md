@@ -1,6 +1,6 @@
 # End to End CD Pipeline Project GitOps ArgoCD
 
-## This Project can be used to Build an End to End CD Pipeline GitOps ArgoCD.
+## This Project Can be Used to Build an End to End CD Pipeline GitOps ArgoCD.
 
 ## CD Pipeline Stages
 
@@ -9,9 +9,7 @@
 - Push Updated Kubernetes Deployment File to GitHub.
 - Send CICD Pipeline Execution Status to Slack.
 
-### Tools and Technologies used are Java, Git, GitHub, Maven, SonarQube, Sonatype Nexus, Jenkins, Docker, AWS ECR Registry, Kubernetes and Amazon Web Services.
-
-<img width="552" alt="CD" src="https://github.com/DevOpsCloudAutomation/GitHub/assets/123757746/763b3e4b-01e0-4212-bbdb-072060453def">
+### Tools and Technologies Used are Java, Git, GitHub, Maven, SonarQube, Sonatype Nexus, Jenkins, Docker, AWS ECR Registry, Kubernetes and Amazon Web Services.
 
 # Project Execution
 ## Git Checkout
@@ -33,4 +31,4 @@
   git push https://github.com/DevOpsCloudAutomation/GitOps_ArgoCD_Kubernetes_CD main
 ```
 
-## Kubernetes Deployment Files are used to Deploy Application into Kubernetes Cluster.
+## Kubernetes Deployment Files are Used to Deploy Application into Kubernetes Cluster.
