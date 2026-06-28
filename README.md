@@ -14,7 +14,7 @@
 # Project Execution
 ## Git Checkout
 ```bash
-  git branch: 'main', url: 'https://github.com/DevOpsCloudAutomation/Kubernetes_GitOps_ArgoCD.git'
+  git branch: 'main', url: 'https://github.com/PavanKumarKJ347/GitOps_ArgoCD_Kubernetes_CD.git'
 ```
 
 ## Update Docker Image Tag in Kubernetes Manifest
